@@ -44,3 +44,7 @@ util-linux 2.28-1
 [1;34mInfo:     [0;37m [1;34mProcesses:[0;37m 97 [1;34mUptime:[0;37m 18 min [1;34mMemory:[0;37m 192.6/7884.5MB[0;37m
 [1;34m          [0;37m [1;34mInit:[0;37m systemd [1;34mGcc sys:[0;37m 6.1.1 [1;34mClient:[0;37m Shell (zsh 5.2) [1;34minxi:[0;37m 2.3.0[0;37m [0;37m
 [0m01:00.0 VGA compatible controller: NVIDIA Corporation GK208 [GeForce GT 730] (rev a1)
+Currently running: 3.18.32-1-MANJARO (linux318)
+The following kernels are installed in your system:
+   * linux310
+   * linux318
