@@ -49,3 +49,155 @@ The following kernels are installed in your system:
    * linux310
    * linux318
 error: no puede realizar esta operación, a menos que sea superusuario.
+Sorry, try again.
+Sorry, try again.
+error: no se pudo analizar el archivo de descripción del paquete «zn_poly-0.9-3/desc» de la base de datos «community»
+advertencia: linux318-nvidia-1:364.19-1 está actualizado -- reinstalándolo
+resolviendo dependencias…
+buscando conflictos entre paquetes…
+
+Paquetes (2) linux318-nvidia-1:364.19-1  nvidia-utils-1:364.19-1
+
+Tamaño total de la instalación:  116,64 MiB
+Tamaño neto tras actualizar:    110,79 MiB
+
+:: ¿Continuar con la instalación? [S/n] comprobando el depósito de claves…
+verificando la integridad de los paquetes…
+cargando los archivos de los paquetes…
+comprobando conflictos entre archivos…
+error: no se pudo realizar la operación (archivos en conflicto)
+nvidia-utils: /usr/bin/nvidia-bug-report.sh existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-cuda-mps-control existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-cuda-mps-server existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-debugdump existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-modprobe existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-persistenced existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-settings existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-smi existe en el sistema de archivos
+nvidia-utils: /usr/bin/nvidia-xconfig existe en el sistema de archivos
+nvidia-utils: /usr/lib/libEGL_nvidia.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libEGL_nvidia.so.0 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libEGL_nvidia.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLESv1_CM_nvidia.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLESv1_CM_nvidia.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLESv1_CM_nvidia.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLESv2_nvidia.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLESv2_nvidia.so.2 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLESv2_nvidia.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLX_indirect.so.0 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLX_nvidia.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLX_nvidia.so.0 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libGLX_nvidia.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libcuda.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libcuda.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libcuda.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvcuvid.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvcuvid.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvcuvid.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-cfg.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-cfg.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-cfg.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-eglcore.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-eglcore.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-encode.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-encode.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-encode.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-fatbinaryloader.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-fatbinaryloader.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-fbc.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-fbc.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-fbc.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-glcore.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-glcore.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-glsi.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-glsi.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-gtk2.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-gtk2.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-gtk3.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-gtk3.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ifr.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ifr.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ifr.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ml.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ml.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ml.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ptxjitcompiler.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-ptxjitcompiler.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-tls.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/libnvidia-tls.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/nvidia/libEGL.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/nvidia/libEGL.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/nvidia/libEGL.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/nvidia/xorg/modules/extensions/libglx.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/nvidia/xorg/modules/extensions/libglx.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/lib/systemd/system/nvidia-persistenced.service existe en el sistema de archivos
+nvidia-utils: /usr/lib/vdpau/libvdpau_nvidia.so existe en el sistema de archivos
+nvidia-utils: /usr/lib/vdpau/libvdpau_nvidia.so.1 existe en el sistema de archivos
+nvidia-utils: /usr/lib/vdpau/libvdpau_nvidia.so.364.19 existe en el sistema de archivos
+nvidia-utils: /usr/share/applications/nvidia-settings.desktop existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia-utils existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/NVIDIA_Changelog existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/README existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/acknowledgements.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/addressingcapabilities.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/addtlresources.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/appendices.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/audiosupport.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/commonproblems.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/configlaptop.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/configmultxscreens.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/configtwinview.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/depth30.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/displaydevicenames.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/dma_issues.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/dpi.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/editxconfig.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/faq.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/flippingubb.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/framelock.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/glxsupport.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/gpunames.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/i2c.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/index.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/installationandconfiguration.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/installdriver.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/installedcomponents.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/introduction.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/kms.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/knownissues.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/minimumrequirements.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/newusertips.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/nvidia-debugdump.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/nvidia-ml.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/nvidia-persistenced.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/nvidia-smi.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/nvidiasettings.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/openglenvvariables.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/optimus.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/powermanagement.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/procinterface.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/profiles.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/programmingmodes.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/randr14.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/sdi.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/selectdriver.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/sli.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/supportedchips.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/vdpausupport.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/xcompositeextension.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/xconfigoptions.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/xineramaglx.html existe en el sistema de archivos
+nvidia-utils: /usr/share/doc/nvidia/html/xrandrextension.html existe en el sistema de archivos
+nvidia-utils: /usr/share/licenses/nvidia-utils existe en el sistema de archivos
+nvidia-utils: /usr/share/licenses/nvidia/LICENSE existe en el sistema de archivos
+nvidia-utils: /usr/share/man/man1/nvidia-cuda-mps-control.1.gz existe en el sistema de archivos
+nvidia-utils: /usr/share/man/man1/nvidia-modprobe.1.gz existe en el sistema de archivos
+nvidia-utils: /usr/share/man/man1/nvidia-persistenced.1.gz existe en el sistema de archivos
+nvidia-utils: /usr/share/man/man1/nvidia-settings.1.gz existe en el sistema de archivos
+nvidia-utils: /usr/share/man/man1/nvidia-smi.1.gz existe en el sistema de archivos
+nvidia-utils: /usr/share/man/man1/nvidia-xconfig.1.gz existe en el sistema de archivos
+nvidia-utils: /usr/share/nvidia/nvidia-application-profiles-364.19-key-documentation existe en el sistema de archivos
+nvidia-utils: /usr/share/nvidia/nvidia-application-profiles-364.19-rc existe en el sistema de archivos
+nvidia-utils: /usr/share/pixmaps/nvidia-settings.png existe en el sistema de archivos
+nvidia-utils: /usr/share/vulkan/icd.d/nvidia_icd.json existe en el sistema de archivos
+Ocurrieron errores, por lo que no se actualizaron los paquetes
