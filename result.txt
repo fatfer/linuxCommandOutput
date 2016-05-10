@@ -48,3 +48,4 @@ Currently running: 3.18.32-1-MANJARO (linux318)
 The following kernels are installed in your system:
    * linux310
    * linux318
+error: no puede realizar esta operación, a menos que sea superusuario.
